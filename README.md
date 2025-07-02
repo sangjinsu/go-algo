@@ -39,12 +39,4 @@ go-algo/
 
 ---
 
-## 참고 링크
-
-* [Go 공식 문서](https://golang.org/doc/)
-* [Baekjoon Online Judge](https://www.acmicpc.net/)
-* [LeetCode](https://leetcode.com/)
-
----
-
-> 기반은 꿔지는 것이 아닐까🚀
+> 꾸준함이 실력을 만든다 🚀
