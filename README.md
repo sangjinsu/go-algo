@@ -20,7 +20,6 @@ go-algo/
 
 * `baekjoon/` - 백준 문제 풀이
 * `leetcode/` - 리트코드 문제 풀이
-* `programmers/` - 프로그래머스 문제 풀이
 * `etc/` - 기타 플랫폼 또는 연습 문제
 
 ---
@@ -45,7 +44,6 @@ go-algo/
 * [Go 공식 문서](https://golang.org/doc/)
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
 * [LeetCode](https://leetcode.com/)
-* [Programmers](https://school.programmers.co.kr/)
 
 ---
 
